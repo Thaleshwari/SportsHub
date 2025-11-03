@@ -1,0 +1,17 @@
+.hero-section-badminton {
+    background-image: url("D:/sports/sportsgoods/src/images/badminton/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .hero-content-badminton {
+    max-width: 800px;
+    background: rgba(0, 0, 0, 0.6); /* optional dark overlay */
+    padding: 30px;
+    border-radius: 12px;
+  }

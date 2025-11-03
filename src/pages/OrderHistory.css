@@ -1,0 +1,11 @@
+.order-history-container {
+  max-width: 900px;
+}
+
+.order-history-container .card {
+  border-radius: 12px;
+}
+
+.order-history-container h5 {
+  font-weight: 600;
+}

@@ -1,0 +1,123 @@
+Login.css
+
+.login-page {
+ margin-top: 100px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  padding-top: 100px;
+  border: none;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+}
+
+.card-header {
+  background-color: #28a745; 
+  padding: 1.5rem 1rem;
+  text-align: center;
+}
+
+.card-header h4 {
+  color: white;
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.card-body {
+  padding: 2rem;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #333;
+}
+
+.form-control {
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  border: 1px solid #ced4da;
+  transition: border 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #28a745;
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+.btn-success {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  background-color: #28a745;
+  border: none;
+  transition: background-color 0.3s;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+}
+
+.btn-linkr {
+  background: none;
+  border: none;
+  color: #007bff;
+  text-decoration: underline;
+  font-size: 0.9rem;
+}
+
+.btn-linkr:hover {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.text-center a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.text-center a:hover {
+  text-decoration: underline;
+}
+
+.fw-bold {
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #e9f7ef;
+  color: #155724;
+}
+
+@media (max-width: 576px) {
+  .card {
+    margin: 1rem;
+  }
+}
+
+/* .bg-dark-blue {
+  background: url("D:/sports/sportsgoods/src/images/badminton/background.jpg"); 
+  background-size: cover;
+  background-position: center;
+} */
+
+/* .login-card {
+  width: 360px;
+  background-color: #fff;
+}
+
+.logo-img {
+  width: 80px;
+}
+
+.text-gold {
+  color: #b29138;
+} */
+

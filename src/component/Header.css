@@ -1,0 +1,11 @@
+.nav-link.active {
+  font-weight: bold;
+  color: #dc3545 !important;
+  border-bottom: 2px solid #dc3545;
+}
+
+.logo-img {
+  height: 70px;
+  width: 70px;
+  margin-right: 10px;
+}

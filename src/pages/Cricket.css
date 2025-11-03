@@ -1,0 +1,16 @@
+.hero-section-cricket {
+    background-image: url("D:/sports/sportsgoods/src/images/cricket/backgroundimage.jpg"); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  .hero-content-cricket {
+    background-color: rgba(0, 0, 0, 0.6); /* dark overlay for better text visibility */
+    padding: 50px;
+    border-radius: 12px;
+    text-align: center;
+  }
