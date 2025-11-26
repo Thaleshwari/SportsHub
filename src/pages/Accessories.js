@@ -26,7 +26,7 @@ const Accessories = () => {
       img: card1,
       title: "Sports T-Shirt",
       subtitle: "Breathable, lightweight dry-fit T-shirt for workouts and outdoor use.",
-      price: "₹599",
+      price: "₹590",
       buy: "Buy Now",
       add: "Add to Cart",
       quantity: 1
@@ -36,7 +36,7 @@ const Accessories = () => {
       img: card2,
       title: "Athletic Shorts",
       subtitle: "Elastic-fit shorts with quick-dry technology, perfect for sports.",
-      price: "₹499",
+      price: "₹495",
       buy: "Buy Now",
       add: "Add to Cart",
       quantity: 1
@@ -46,7 +46,7 @@ const Accessories = () => {
       img: card3,
       title: "Knee Support Band",
       subtitle: "Comfortable and flexible knee band for joint support during workouts and recovery.",
-      price: "₹299",
+      price: "₹250",
       buy: "Buy Now",
       add: "Add to Cart",
       quantity: 1
