@@ -23,7 +23,7 @@ export class About extends Component {
             <div className="col-md-6">
               <h2 className="mb-4">🏆 About Our Store</h2>
               <p className="text-muted">
-                Welcome to <strong>SportsHub</strong>, your trusted online store for high-quality sports equipment and fitness accessories. We believe that the right gear empowers every athlete — whether you're a beginner or a pro.
+                Welcome t <strong>SportsHub</strong>, your trusted online store for high-quality sports equipment and fitness accessories. We believe that the right gear empowers every athlete — whether you're a beginner or a pro.
               </p>
               <p className="text-muted">
                 From gym wear and resistance bands to professional kits and recovery tools, we provide premium products to enhance your performance, comfort, and safety.
